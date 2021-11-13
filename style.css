@@ -1,0 +1,28 @@
+body {
+  font-family: DejaVu Serif,Source Serif Pro,Serif;
+}
+h1 {
+  font-family: Constantia,sans-serif;
+  font-size: 150px;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  margin: 0;
+  line-height: 1.5;
+  }
+p {
+  font-size: 30px;
+  text-align: center;
+}
+h4 {
+  font-style:italic;
+}
+img {
+  max-width: 50%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+figcaption {
+  text-align: center;
+  }
